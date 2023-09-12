@@ -1,0 +1,593 @@
+Finding No.,Support Type,Insulation,Fluid,Operating Temperature (minimum),Operating Temperature (maximum),Material,Coating,Primer,Mist,Intermediate,Finish,Anti-Corrosion,Environment,Severity
+Ammonia-P01-R01,Clamp+Guide,Yes,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P01-R02,Clamp+Guide,Yes,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P01-R03,Clamp,Yes,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P01-R04,Clamp,Yes,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P01-R05,Clamp+Guide,Yes,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P02-R01,Clamp,Yes,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P02-R02,Clamp,Yes,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P02-R03,Pipework resting on beam,Yes,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P02-R04,Pipework resting on beam,Yes,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P03-R01,Pipework resting on beam,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P03-R02,Pipework resting on beam,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P03-R03,Pipework resting on beam,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P03-R04,Guide,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P03-R05,Guide,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P04-R01,Trunnion,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P04-R02,Pipework resting on beam,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P04-R03,Guide,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P04-R04,Pipework resting on beam,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P04-R05,Guide,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P01-R01,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P01-R02,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P01-R03,Pipework resting on beam,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P01-R04,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P01-R05,Clamp+Guide,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P02-R01,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P02-R02,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P02-R03,Pipework resting on beam,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P02-R04,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P03-R01,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P03-R02,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P03-R03,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P03-R04,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P03-R05,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P04-R01,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P04-R02,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P04-R03,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P04-R04,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LNG-P01-R01,Pipework resting on beam,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+LNG-P01-R02,Pipework resting on beam,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LNG-P01-R03,Guide,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+LNG-P01-R04,Pipework resting on beam,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LNG-P02-R01,Guide,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LNG-P02-R02,Guide,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LNG-P02-R03,Guide,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LNG-P03-R01,Pipework resting on beam,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LNG-P03-R02,Guide,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LNG-P03-R03,Pipework resting on beam,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LNG-P03-R04,Guide,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+LNG-P03-R05,Guide,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+LNG-P04-R01,Guide,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LNG-P04-R02,Pipework resting on beam,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+LNG-P04-R03,Guide,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+LNG-P04-R04,Pipework resting on beam,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LNG-P04-R05,Guide,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P01-R01,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P01-R02,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P01-R03,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P01-R04,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P01-R05,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P02-R01,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P02-R02,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P02-R03,Pipework resting on beam,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P02-R04,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P02-R05,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P03-R01,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P03-R02,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P03-R03,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P03-R04,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P03-R05,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P04-R01,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P04-R02,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P04-R03,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P04-R04,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P04-R05,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P01-R01,Guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P01-R02,Guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P01-R03,Pipework resting on beam,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P01-R04,Guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P01-R05,Pipework resting on beam,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P02-R01,Guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P02-R02,Pipework resting on beam,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P02-R03,Guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P02-R04,Guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P03-R01,Guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P03-R02,Guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P03-R03,Pipework resting on beam,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P03-R04,Pipework resting on beam,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P03-R05,Guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P04-R01,Guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P04-R02,Guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P04-R03,Guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P04-R04,Pipework resting on beam,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P04-R05,Guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P01-R01,Pipework resting on beam,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P01-R02,Guide,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P01-R03,Pipework resting on beam,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P01-R04,Guide,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P01-R05,Pipework resting on beam,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P02-R01,Pipework resting on beam,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P02-R02,Guide,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P02-R03,Guide,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P02-R04,Pipework resting on beam,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P03-R01,Pipework resting on beam,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P03-R02,Guide,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P03-R03,Saddle support+guide,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P03-R04,Pipework resting on beam,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P03-R05,Guide,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P04-R01,Pipework resting on beam,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P04-R02,Pipework resting on beam,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P04-R03,Pipework resting on beam,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P04-R04,Pipework resting on beam,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P04-R05,Pipework resting on beam,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P01-R01,Saddle support,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P01-R02,Saddle support,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P01-R03,Saddle support,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P01-R04,Saddle support,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P01-R05,Saddle support,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P02-R01,Saddle support,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P02-R02,Saddle support,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P02-R03,Saddle support,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P02-R04,Saddle support,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P02-R05,Saddle support,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P03-R01,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P03-R02,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P03-R03,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P03-R04,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P03-R05,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P04-R01,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P04-R02,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P04-R03,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P04-R04,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P04-R05,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P05-R01,Guide,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P05-R02,Pipework resting on beam,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+Ammonia-P05-R03,Guide,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+Ammonia-P05-R04,Pipework resting on beam,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+Ammonia-P05-R05,Guide,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+Ammonia-P06-R01,Saddle support,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P06-R02,Saddle support+shoe,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P06-R03,Saddle support,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P06-R04,Saddle support+shoe,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P06-R05,Saddle support+shoe,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P07-R01,Saddle support+shoe,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P07-R02,Saddle support,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P07-R03,Saddle support,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P07-R04,Saddle support+shoe,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P07-R05,Saddle support,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P08-R01,Saddle support+shoe,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P08-R02,Saddle support,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P08-R03,Saddle support,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P08-R04,Saddle support+shoe,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Ammonia-P08-R05,Saddle support,No,Ammonia,-30.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P05-R01,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P05-R02,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P05-R03,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P05-R04,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P05-R05,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P06-R01,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P06-R02,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P06-R03,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P06-R04,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P06-R05,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P07-R01,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P07-R02,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P07-R03,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P07-R04,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P07-R05,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P08-R01,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P08-R02,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P08-R03,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P08-R04,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+AN-P08-R05,Bolted skid,Yes,Acrylonitrile,15.0,19.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LPG-P05-R01,Guide,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+LPG-P05-R02,Pipework resting on beam,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+LPG-P05-R03,Guide,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+LPG-P05-R04,Pipework resting on beam,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+LPG-P05-R05,Guide,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+LPG-P06-R01,Saddle support+guide,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LPG-P06-R02,Saddle support,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LPG-P06-R03,Saddle support+guide,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LPG-P06-R04,Saddle support,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LPG-P06-R05,Saddle support,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LPG-P07-R01,Saddle support+guide,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LPG-P07-R02,Saddle support+guide,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LPG-P07-R03,Saddle support,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LPG-P07-R04,Saddle support+guide,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LPG-P07-R05,Saddle support,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LPG-P08-R01,Saddle support+guide,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LPG-P08-R02,Saddle support+guide,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LPG-P08-R03,Saddle support,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LPG-P08-R04,Saddle support+guide,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+LPG-P08-R05,Saddle support,No,Liquefied Petroleum Gas,15.0,27.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P05-R01,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P05-R02,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P05-R03,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P05-R04,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P05-R05,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P06-R01,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P06-R02,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P06-R03,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P06-R04,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P06-R05,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P7-R01,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P07-R02,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P07-R03,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P07-R04,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P07-R05,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P08-R01,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P08-R02,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P08-R03,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P08-R04,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+MMA-P08-R05,Bolted skid,Yes,Methyl Methacrylate,10.0,24.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P05-R01,Guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P05-R02,Pipework resting on beam,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+Propylene-P05-R03,Guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+Propylene-P05-R04,Pipework resting on beam,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+Propylene-P05-R05,Guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P06-R01,Saddle support+guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P06-R02,Saddle support,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P06-R03,Saddle support+guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P06-R04,Saddle support,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P06-R05,Saddle support,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P07-R01,Saddle support+guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P07-R02,Saddle support+guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P07-R03,Saddle support,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P07-R04,Saddle support+guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P07-R05,Saddle support,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P08-R01,Saddle support+guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P08-R02,Saddle support+guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P08-R03,Saddle support,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P08-R04,Saddle support+guide,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Propylene-P08-R05,Saddle support,No,Propylene,26.0,36.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P05-R01,Guide,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P05-R02,Pipework resting on beam,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P05-R03,Guide,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P05-R04,Pipework resting on beam,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+Solvent-P05-R05,Guide,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P06-R01,Guide,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+Solvent-P06-R02,Pipework resting on beam,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+Solvent-P06-R03,Guide,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+Solvent-P06-R04,Pipework resting on beam,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P06-R05,Guide,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+Solvent-P07-R01,Guide,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P07-R02,Pipework resting on beam,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P07-R03,Guide,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+Solvent-P07-R04,Pipework resting on beam,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+Solvent-P07-R05,Guide,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P08-R01,Guide,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P08-R02,Pipework resting on beam,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P08-R03,Guide,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P08-R04,Pipework resting on beam,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Solvent-P08-R05,Pipework resting on beam,No,Hexane,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P05-R01,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P05-R02,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P05-R03,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P05-R04,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P05-R05,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P06-R01,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,1
+Sulfuric-P06-R02,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P06-R03,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P06-R04,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P06-R05,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P07-R01,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P07-R02,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P07-R03,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P07-R04,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P07-R05,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P08-R01,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P08-R02,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P08-R03,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P08-R04,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+Sulfuric-P08-R05,Welded skid,No,Sulfuric acid,36.0,36.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,High-built Polyamide Epoxy,High-build Polyamide Epoxy,Aliphatic Polyurethane Final coat,No,Marine,0
+GD-000-GD-001,Pipework resting on beam/Guide,No,Nitrogen,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,2
+GD-001-GD-002,Pipework resting on beam/Guide,No,Nitrogen,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,3
+GD-002-GD-003,Pipework resting on beam,No,Nitrogen,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,3
+GD-050-GD-051,Pipework resting on beam,No,Nitrogen,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,3
+GD-051-GD-055,Pipework resting on beam,No,Nitrogen,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,2
+GD-16-GD-17,Pipework resting on beam,No,Nitrogen,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,1
+GD-17-GD-18,Pipework resting on beam,No,Nitrogen,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+GD011-GD018,Pipework resting on beam,No,Nitrogen,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,2
+GD-001-GD-002,Pipework resting on beam,No,Treated Water,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,3
+GD-001-GD-002,Pipework resting on beam,No,Treated Water,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,3
+GD-075-GD-076,Pipework resting on beam,No,Treated Water,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,1
+"BTF-GD00,03,13,14,123",Pipework resting on beam,No,Treated Water,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,0
+"GD01, 07-19,27, 34, 38,
+124",Pipework resting on beam,No,Treated Water,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,1
+"GD06,26",Pipework resting on beam,No,Treated Water,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,2
+GD06-60,Pipework resting on beam,No,Treated Water,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,2
+GD33,Pipework resting on beam,No,Treated Water,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,1
+GD-01-GD-05,Pipework resting on beam/Guide,No,Utility Air,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,0
+GD-10-GD-13,Pipework resting on beam,No,Utility Air,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+BTF-GD00,Pipework resting on beam/fully welded saddle,No,Line to Flare,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+BTF-GD00,Pipework resting on beam/partially welded saddle,No,Line to Flare,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,0
+GD00-GD01,Pipework resting on beam/Guide,No,Line to Flare,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,3
+GD01-GD02,Pipework resting on beam/Guide,No,Line to Flare,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,2
+GD09-GD10,Pipework resting on beam,No,Line to Flare,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+GD23-GD25,Pipework resting on beam/partially welded saddle,No,Line to Flare,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,1
+"GD28,GD37",Pipework resting on beam/partially welded saddle,No,Line to Flare,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,3
+"GD46,79,82,91,122,123",Pipework resting on beam/partially welded saddle,No,Line to Flare,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,3
+GD124,Pipework resting on beam/fully welded saddle,No,Line to Flare,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,3
+1(BTF-GD000),Pipework resting on beam/fully welded saddle,No,VCM,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,1
+2(BTF-GD001),Pipework resting on beam/partially welded saddle,No,VCM,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+3(BTF-GD001),Pipework resting on beam/partially welded saddle,No,VCM,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+4(GD000-GD001),Pipework resting on beam/partially welded saddle,No,VCM,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+6(GD001-GD002),Pipework resting on beam/fully welded saddle,No,VCM,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+9(GD002-GD003),Pipework resting on beam/partially welded saddle,No,VCM,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,1
+"11(GD028-029,068,089,096,123)",Pipework resting on beam/partially welded saddle,No,VCM,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,3
+1(BTF-GD-000),Pipework resting on beam/partially welded saddle,No,Butene,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+3(GD-027-GD-028),Pipework resting on beam/Guide,No,Butene,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,2
+4(GD-033-GD-034),Pipework resting on beam/Guide/ partially welded saddle,No,Butene,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+5(GD-039-GD-040),Pipework resting on beam,No,Butene,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,1
+1(GD001-GD003),Pipework resting on beam/partially welded saddle,No,BD,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,3
+2(GD001-GD003),Pipework resting on beam/partially welded saddle,No,BD,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,2
+4(GD006-GD009),Pipework resting on beam/Guide/partially welded saddle,No,BD,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+5(GD009-GD015),Pipework resting on beam/Guide/partially welded saddle,No,BD,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,1
+6(GD015-GD021),Pipework resting on beam/Guide/partially welded saddle,No,BD,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+7(GD021-GD033),Pipework resting on beam/Guide/partially welded saddle,No,BD,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+8(GD033-GD057),Pipework resting on beam/Guide/partially welded saddle,No,BD,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+9(GD057-GD075),Pipework resting on beam/Guide/partially welded saddle,No,BD,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,1
+10(GD075-GD090),Pipework resting on beam/Guide/partially welded saddle,No,BD,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,1
+11(GD090-GD106),Pipework resting on beam/Guide/partially welded saddle,No,BD,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,1
+12(GD106-GD124),Pipework resting on beam/Guide/partially welded saddle,No,BD,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+13(GD006-018),Pipework resting on beam/Guide/partially welded saddle,No,BD,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,1
+16(GD016-017),Pipework resting on beam/Guide/partially welded saddle,No,BD,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,3
+17(GD017-018),Pipework resting on beam,No,BD,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+2(BTF-GD003),Pipework resting on beam,No,MEG,35.0,35.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,2
+"3(GD002,003,023,026,041,099,123,124)",Pipework resting on beam,No,MEG,35.0,35.0,Stainless Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,2
+"BTF-GD001, GD002-003",Pipework resting on beam/fully welded saddle,No,VCM,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,2
+"GD068, 090, 096, 124",Pipework resting on beam,No,VCM,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+GD001-003,Pipework resting on beam/partially welded saddle,No,VCM,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,3
+BTF-GD003,Pipework resting on beam/partially welded saddle,No,CAR,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+BTF-GD009,Pipework resting on beam/partially welded saddle,No,CAR,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+GD001-002,Pipework resting on beam/partially welded saddle,No,CAR,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,2
+GD-000-GD-001,Pipework resting on beam/partially welded saddle,No,EDC,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,1
+GD-003-GD-004,Pipework resting on beam/partially welded saddle,No,EDC Vapor,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,1
+GD-075-GD-076,Pipework resting on beam/partially welded saddle,No,EDC Vapor,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,2
+GD-077-GD-078,Pipework resting on beam/Guide/partially welded saddle,No,EDC Vapor,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,2
+GD-095-GD-096,Pipework resting on beam/partially welded saddle,No,EDC Vapor,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,2
+GD-01-GD-02,Pipework resting on beam/Guide/partially welded saddle,No,EDC Vapor,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,2
+GD-16-GD-17,Pipework resting on beam/Guide/partially welded saddle,No,EDC Vapor,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,1
+1(BFT),Pipework resting on beam/partially welded saddle,No,Propylene,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+2(BFT),Pipework resting on beam/partially welded saddle,No,Propylene,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+3(BFT),Pipework resting on beam/partially welded saddle,No,Propylene,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+4(BFT),Pipework resting on beam/partially welded saddle,No,Propylene,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+5(BFT),Pipework resting on beam/partially welded saddle,No,Propylene,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+6(BFT),Pipework resting on beam/partially welded saddle,No,Propylene,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+GD01,Pipework resting on beam/partially welded saddle,No,Propylene,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,3
+GD01-GD02,Pipework resting on beam/partially welded saddle,No,Propylene,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,3
+GD40-GD41,Pipework resting on beam/partially welded saddle,No,Propylene,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+GD51,Pipework resting on beam/partially welded saddle,No,Propylene,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,3
+GD56-GD59,Pipework resting on beam/partially welded saddle,No,Propylene,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,3
+GD59-GD64,Pipework resting on beam/partially welded saddle,No,Propylene,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,3
+GD001-GD005,Pipework resting on beam/partially welded saddle,No,Fire Water,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,1
+GD005-GD007,Pipework resting on beam/partially welded saddle,No,Fire Water,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,1
+GD007-GD010,Pipework resting on beam/partially welded saddle,No,Fire Water,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,1
+GD010-GD014,Pipework resting on beam/partially welded saddle,No,Fire Water,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,1
+GD014-GD016,Pipework resting on beam/partially welded saddle,No,Fire Water,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,2
+GD016-GD018,Pipework resting on beam/partially welded saddle,No,Fire Water,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,No,Coastal/Marine,2
+GD01-GD02,Pipework resting on beam/partially welded saddle,No,LPG,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+GD01-GD02,Pipework resting on beam/partially welded saddle,No,LPG,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,1
+GD01-GD02,Pipework resting on beam/partially welded saddle,No,LPG,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,2
+GD03-GD04,Pipework resting on beam/partially welded saddle,No,LPG,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,1
+GD03-GD04,Pipework resting on beam/partially welded saddle,No,LPG,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,1
+GD04-GD05,Pipework resting on beam/partially welded saddle,No,LPG,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,1
+GD12-GD14,Pipework resting on beam/partially welded saddle,No,LPG,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+GD14-GD19,Pipework resting on beam/partially welded saddle,No,LPG,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,0
+GD29-GD33,Pipework resting on beam/partially welded saddle,No,LPG,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,2
+GD33-GD37,Pipework resting on beam/partially welded saddle,No,LPG,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,2
+GD37-GD40,Pipework resting on beam/partially welded saddle,No,LPG,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,2
+GD40-GD45,Pipework resting on beam/partially welded saddle,No,LPG,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,1
+GD45-GD51,Pipework resting on beam/partially welded saddle,No,LPG,35.0,35.0,Carbon Steel,Yes,Inorganic zinc Self-cure Solvent base,No,High-build Polyamide Epoxy,Polyamide epoxy,Yes,Coastal/Marine,1
+"1""-P-34017-2DS4(P)",U-bolt,Yes,P,80.0,80.0,Stainless Steel,No,Silicone (Black),No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1""-P-34018-2DS4(P)",Pipework resting on beam,Yes,P,80.0,80.0,Stainless Steel,No,Silicone (Black),No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-CO-34207-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-CO-34206-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-CO-34208-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-CO-34209-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3/4""-CO-34213-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,Yes,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),1
+"1""-CO-34201-1IS5",Pipework resting on beam,No,CO,40.0,40.0,Stainless Steel,Yes,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-PR-34314-1DL4(TB),Pipework resting on beam,Yes,PR,53.1,53.1,Stainless Steel,No,Silicone (Black),No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-OG-34301-1DL4,U-bolt,No,OG,53.1,53.1,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-PR-34311-1DL4(P),U-bolt,Yes,PR,50.0,50.0,Stainless Steel,No,Silicone (Black),No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-PR-34320-1FL4(P),U-bolt,Yes,PR,53.0,110.0,Stainless Steel,No,Silicone (Black),No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-PR-34310-1DL4(TB),Pipework resting on beam,Yes,PR,30.0,30.0,Stainless Steel,Yes,Silicone (Black),No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-PR-34311-1DL4(P),U-bolt,Yes,PR,50.0,50.0,Stainless Steel,No,Silicone (Black),No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-PR-34317-1DL4(P),Pipework resting on beam,Yes,PR,42.0,42.0,Stainless Steel,Yes,Silicone (Black),No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-PR-34320-1FL4(P),U-bolt,Yes,PR,53.0,110.0,Stainless Steel,No,Silicone (Black),No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"12""-PR-35001-1CC1",Hanger,Yes,PR,105.0,105.0,Carbon Steel,Yes,Epoxy-Phenolic,No,Epoxy-Phenolic,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-PR-35002-1CC1",U-bolt,No,PR,41.3,41.3,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-PR-35107-1CC1,U-bolt,No,PR,55.0,55.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-PR-35307-1CC1,U-bolt,Yes,PR,10.0,10.0,Carbon Steel,No,Epoxy-Phenolic,No,Epoxy-Phenolic,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),1
+"3""-OG-35301-1CC1",Guide,No,OG,60.0,60.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),1
+"1""-EG-36101-1CS2",U-bolt,No,EG,20.0,20.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1""-H-37002-1FS4",U-bolt,No,H,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),1
+"1""-H-37004-1DS4",U-bolt,No,H,35.0,35.0,Stainless Steel,Yes,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),1
+"3""-ET-37114-1FC4",U-bolt,No,ET,40.0,40.0,Carbon Steel,No,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-ET-37111-1FC4",U-bolt,No,ET,32.0,32.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),2
+1 1/2-ET-37112-1FC4,Guide,No,ET,40.0,40.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"2""-BU-37301-2DC4",Guide,No,BU,35.0,35.0,Carbon Steel,No,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-PR-37423-1DL4",U-bolt,No,PR,44.0,44.0,Stainless Steel,Yes,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"2""-PR-37408-1DL4",U-bolt,No,PR,44.0,44.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"2""-PR-37412-1DL4",Pipework resting on beam,No,PR,35.0,35.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"2""-PR-37421-1DL4",Guide,No,PR,35.0,35.0,Carbon Steel,No,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),1
+"3""-OG-30104-1CC1",pipework resting on beam,No,OG,35.0,35.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-OG-30104-1CC1",U-bolt,No,OG,35.0,35.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-OG-30104-1CC1",pipework resting on beam,No,OG,35.0,35.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-OG-30105-1CC1",pipework resting on beam,No,OG,35.0,35.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-OG-30105-1CC1",U-bolt,No,OG,35.0,35.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-OG-30105-1CC1",pipework resting on beam,No,OG,35.0,35.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-PR-30106-1DL4",pipework resting on beam,No,PR,45.0,45.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-PR-30106-1DL4",U-bolt,No,PR,45.0,45.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-OG-30103-1CC1",Trunnion,No,OG,35.0,35.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-PR-30101-1DL4",pipework resting on beam,No,PR,35.0,35.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-PR-30101-1DL4",Trunnion,No,PR,35.0,35.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-PR-30103-5DL4",U-bolt,No,PR,30.0,30.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-PR-30103-5DL4",U-bolt,No,PR,30.0,30.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-PR-30103-5DL4",U-bolt,No,PR,30.0,30.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-PR-30103-5DL4",U-bolt,No,PR,30.0,30.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-PR-30103-5DL4",U-bolt,No,PR,30.0,30.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-PR-30105-1DL4",pipework resting on beam,No,PR,30.0,30.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-PR-30105-1DL4",U-bolt,No,PR,30.0,30.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-PR-30105-1DL4",U-bolt,No,PR,30.0,30.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-PR-30105-1DL4",U-bolt,No,PR,30.0,30.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-PR-30105-1DL4",U-bolt,No,PR,30.0,30.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-PR-30105-1DL4",U-bolt,No,PR,30.0,30.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-H-30101-1DS4,U-bolt,No,H,35.0,35.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-H-30101-1DS4,U-bolt,No,H,35.0,35.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-H-30101-1DS4,U-bolt,No,H,35.0,35.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-H-30101-1DS4,U-bolt,No,H,35.0,35.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-H-30101-1DS4,U-bolt,No,H,35.0,35.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-H-30101-1DS4,U-bolt,No,H,35.0,35.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-H-30101-1DS4,U-bolt,No,H,35.0,35.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-H-30101-1DS4,U-bolt,No,H,35.0,35.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-H-30101-1DS4,U-bolt,No,H,35.0,35.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-H-30101-1DS4,pipework resting on beam,No,H,35.0,35.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-H-30101-1DS4,pipework resting on beam,No,H,35.0,35.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-H-30101-1DS4,pipework resting on beam,No,H,35.0,35.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"2""-OG-30101-1DS4",Trunnion,Yes,OG,60.0,60.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"2""-OG-30101-1DS4",Trunnion,Yes,OG,60.0,60.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"2""-OG-30101-1DS4",U-bolt,Yes,OG,60.0,60.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"2""-OG-30106-1CS1",U-bolt,No,OG,60.0,60.0,Stainless Steel,Yes,Silicone (Black),No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-ET-30101-1FC4",U-bolt,No,ET,35.0,35.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-ET-30101-1FC4",pipework resting on beam,No,ET,35.0,35.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-PR-30102-1DL4",U-bolt,No,PR,45.0,45.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-TEA-31103-3FS3",U-bolt,No,TEA,30.0,30.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-TEA-31103-3FS3",U-bolt,No,TEA,30.0,30.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-TEA-31105-3FS3",pipework resting on beam,No,TEA,30.0,30.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-TEA-31106-3FS3",U-bolt,No,TEA,30.0,30.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1""-TEA-31108-3DS3",U-bolt,No,TEA,30.0,30.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-TEA-32003-3FS3",U-bolt,No,TEA,10.0,10.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-PR-32102-1FL4(IF)",U-bolt,Yes,PR,10.0,10.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-SL-32101-2FS4,"Saddle support – loose saddle, partially welded saddle",No,SL,20.0,20.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-SL-32101-2FS4,U-bolt,No,SL,20.0,20.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-PR-32105-1FL4(IF)",Trunnion,Yes,PR,10.0,10.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-PR-32105-1FL4(IF)",Trunnion,Yes,PR,10.0,10.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),1
+"1/2""-H-32201-1FS4",U-bolt,No,H,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),1
+"1/2""-H-32201-1FS4",U-bolt,No,H,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-H-32203-1FS4",pipework resting on beam,No,H,40.0,40.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-H-32203-1FS4",U-bolt,No,H,40.0,40.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1""-ET-32201-1FC4",U-bolt,No,ET,40.0,40.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),1
+"1""-ET-32201-1FC4",U-bolt,No,ET,40.0,40.0,Carbon Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1""-ET-32201-1FC4",U-bolt,No,ET,40.0,40.0,Carbon Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1""-ET-32203-1FS4",U-bolt,No,ET,25.0,25.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1""-H-32202-1FS4",U-bolt,No,H,40.0,40.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1""-H-32202-1FS4",U-bolt,No,H,40.0,40.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1""-PR-32202-1FL4",U-bolt,No,PR,45.0,45.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-ET-32204-1FS4,U-bolt,No,ET,25.0,25.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-PR-32201-1FL4","Saddle support – loose saddle, partially welded saddle",No,PR,45.0,45.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-PR-32201-1FL4",Trunnion,No,PR,45.0,45.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-PR-32204-1FL4",Trunnion,No,PR,45.0,45.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-PR-32207-1FL4",Trunnion,No,PR,45.0,45.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-PR-32207-1FL4",Trunnion,No,PR,45.0,45.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-HC-32301-1FS4(IB)",U-bolt,Yes,HC,20.0,20.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-HC-32301-1FS4(IB)",U-bolt,Yes,HC,20.0,20.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),1
+"1/2""-HC-32322-1DL4(IB)",pipework resting on beam,Yes,HC,90.0,90.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1""-HC-32307-1FS4(IB)",U-bolt,Yes,HC,20.0,20.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-P-32307-2DL4(IB)",Welded skid/anchor,Yes,P,100.0,100.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-HC-32333-1FS4(IB),U-bolt,Yes,HC,100.0,100.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-HC-32305-1FS4(TB),Trunnion,Yes,HC,120.0,120.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-HC-32329-1FL4(TB),U-bolt,Yes,HC,100.0,100.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-HC-32315-1DL4(IB)",Trunnion,Yes,HC,90.0,90.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-HC-32330-1FS4(IB)",U-bolt,Yes,HC,20.0,20.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-PR-32414-1DL4,U-bolt,No,PR,45.0,45.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1""-HC-32405-1FS4(IB)",U-bolt,Yes,HC,20.0,20.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-HC-32407-1DL4(P)","Saddle support – loose saddle, partially welded saddle",Yes,HC,50.0,50.0,Carbon Steel,Yes,Silicone,No,No,Silicone,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"8""-HC-32409-1FL4(IB)",Trunnion,Yes,HC,73.0,73.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"8""-HC-32410-1DL4(IB)",Trunnion,Yes,HC,73.0,73.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"8""-HC-32412-1FL4(P)",Welded skid/anchor,Yes,HC,73.0,73.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"10""-HC-32408-1DL4(IB)",Trunnion,Yes,HC,75.0,75.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"10""-HC-32421-1DL4(IB)",Trunnion,Yes,HC,75.0,75.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-HC-32425-1FL4(P),U-bolt,Yes,HC,76.5,76.5,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-HC-32425-1FL4(P),U-bolt,Yes,HC,76.5,76.5,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"2""-HC-32422-1FL4(P)",U-bolt,Yes,HC,76.5,76.5,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"2""-HC-32422-1FL4(P)",U-bolt,Yes,HC,76.5,76.5,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"2""-HC-32422-1FL4(P)",U-bolt,Yes,HC,76.5,76.5,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-HC-32423-1FL4(P)",Trunnion,Yes,HC,80.0,80.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-HC-32423-1FL4(P)",Trunnion,Yes,HC,80.0,80.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-HC-32437-1FL4(P)",pipework resting on beam,Yes,HC,80.0,80.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-HC-32437-1FL4(P)",Trunnion,Yes,HC,80.0,80.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-HC-32437-1FL4(P)",pipework resting on beam,Yes,HC,80.0,80.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-HC-32437-1FL4(P)",pipework resting on beam,Yes,HC,80.0,80.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-HC-32437-1FL4(P)",pipework resting on beam,Yes,HC,80.0,80.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-HC-32437-1FL4(P)",pipework resting on beam,Yes,HC,80.0,80.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-HC-32437-1FL4(P)",Trunnion,Yes,HC,80.0,80.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-PR-32408-1FL4(P)",Trunnion,Yes,PR,45.0,45.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-HC-32416-1FL4(P)",Trunnion,Yes,HC,76.5,76.5,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-HC-32419-1FL4(IB)",Welded skid/anchor,Yes,HC,80.0,80.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-HC-32430-1FL4(P)",Pipework resting on beam/guide,Yes,HC,80.0,80.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-HC-32437-1FL4(P)",Pipework resting on beam/guide,Yes,HC,80.0,80.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-HC-32437-1FL4(P)",Pipework resting on beam/guide,Yes,HC,80.0,80.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-HC-32437-1FL4(P)",Pipework resting on beam/guide,Yes,HC,80.0,80.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-PR-32415-1FL4(P)",Trunnion,Yes,PR,45.0,45.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-PR-32415-1FL4(P)",Trunnion,Yes,PR,45.0,45.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-PR-32419-1DL4",Trunnion,No,PR,45.0,45.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-HC-32426-1FL4(IB)",Trunnion,Yes,HC,80.0,80.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-HC-32426-1FL4(IB)",Trunnion,Yes,HC,80.0,80.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-HC-32426-1FL4(IB)",Trunnion,Yes,HC,80.0,80.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3/4""-CO-32612-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1""-CO-32601-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1""-CO-32601-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1""-CO-32604-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-CO-32616-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-CO-32616-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-CO-32617-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-CO-32617-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-CO-32618-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-CO-32618-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-CO-32619-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-CO-32619-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-CO-32620-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-CO-32620-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-CO-32620-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-CO-32621-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-CO-32621-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-CO-32622-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-CO-32622-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-CO-32623-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-CO-32623-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3/4""-CO-33103-1IS5",U-bolt,No,CO,40.0,40.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3/4""-HC-33108-1DL4",U-bolt,No,HC,35.0,35.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3/4""-HC-33109-1DL4",U-bolt,No,HC,35.0,35.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-PR-33104-1FS4,Riser Clamp,Yes,PR,100.0,100.0,Carbon Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-HC-33101-1DL4(IB)",Anchor,Yes,HC,85.0,85.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-HC-33101-1DL4(IB)",Welded skid/anchor,Yes,HC,85.0,85.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-HC-33103-1DL4(IB)",Welded skid/anchor,Yes,HC,85.0,85.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1""-HC-33206-1DL4(IB)",U-bolt,Yes,HC,100.0,100.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1""-HC-33213-1DL4(P)",U-bolt,Yes,HC,100.0,100.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-HC-33203-1DL4(IB)",Anchor/pipework resting on beam,Yes,HC,100.0,100.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),1
+"3""-HC-33204-1DL4(IB)",Trunnion,Yes,HC,100.0,100.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-HC-33208-1DL4(IB)",Trunnion,Yes,HC,55.0,55.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-HC-33214-1DL4(IB)",Anchor/pipework resting on beam,Yes,HC,100.0,100.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-HC-33215-1DL4(IB)",Bolted skid,Yes,HC,100.0,100.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-HC-33201-1DL4(IB)",Bolted skid,Yes,HC,55.0,55.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-HC-33211-1DL4",Bolted skid,Yes,HC,55.0,55.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3/4""-PR-33331-1DL4",U-bolt,No,PR,45.0,45.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"2""-PR-33315-1DL4",U-bolt,No,PR,40.0,40.0,Carbon Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-PR-33303-1FL4",Trunnion,No,PR,45.0,45.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-PR-33303-1FL4",Trunnion,No,PR,45.0,45.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-PR-33303-1FL4",Trunnion,No,PR,45.0,45.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-PR-33304-1FL4",Trunnion,No,PR,45.0,45.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-PR-33304-1FL4",U-bolt,No,PR,45.0,45.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-PR-33310-1FL4",Trunnion,No,PR,45.0,45.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-PR-33311-1DL4",Trunnion,No,PR,45.0,45.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"6""-PR-33323-1DL4",pipework resting on beam,No,PR,45.0,45.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"8""-PR-33312-1DL4",Trunnion,No,PR,45.0,45.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"10""-PR-33301-1DL4",Hanger,No,PR,45.0,45.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-HC-33407-1CC1(P),U-bolt,Yes,HC,80.0,80.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"8""-P-33401-1CL1(P)",Trunnion,Yes,P,80.0,80.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"10""-HC-33401-1CC1(P)",Trunnion,Yes,HC,80.0,80.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"10""-HC-33401-1CC1(P)",Trunnion,Yes,HC,80.0,80.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-PR-33605-1DL4(P),pipework resting on beam,Yes,PR,100.0,100.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-PR-33610-1CC1,U-bolt,No,PR,45.0,45.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-PR-33601-1DL4(P)",Riser Clamp,Yes,PR,100.0,100.0,Carbon Steel,Yes,Silicone,No,No,Silicone,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-PR-33601-1DL4(P)",Guide,Yes,PR,100.0,100.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-PR-33601-1DL4(P)",Riser Clamp,Yes,PR,100.0,100.0,Carbon Steel,Yes,Silicone,No,No,Silicone,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-PR-33601-1DL4(P)",Trunnion,Yes,PR,100.0,100.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-PR-33601-1DL4(P)",Trunnion,Yes,PR,100.0,100.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-PR-33601-1DL4(P)",Trunnion,Yes,PR,100.0,100.0,Carbon Steel,Yes,Silicone,No,No,Silicone,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-PR-33603-1DL4 (P)",Riser Clamp,Yes,PR,100.0,100.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-PR-33607-1DL4(P)",Trunnion,Yes,PR,100.0,100.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"4""-PR-33607-1DL4(P)",Trunnion,Yes,PR,100.0,100.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"10""-PR-33602-1CC1(P)",pipework resting on beam,Yes,PR,45.0,45.0,Carbon Steel,Yes,Silicone,No,No,Silicone,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"12""-PR-33608-1CC1",Trunnion,No,PR,45.0,45.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-PR-34005-1DL4",U-bolt,No,PR,30.0,80.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-PR-34005-1DL4",U-bolt,No,PR,30.0,80.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1/2""-PR-34005-1DL4",U-bolt,No,PR,30.0,80.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-PR-34004-1DL4(TB),U-bolt,Yes,PR,30.0,80.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+1 1/2-PR-34004-1DL4(TB),U-bolt,Yes,PR,30.0,80.0,Stainless Steel,No,No,No,No,No,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1""-H-34001-1DS4",U-bolt,No,H,35.0,35.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"1""-PR-34008-1DL4",U-bolt,No,PR,30.0,80.0,Stainless Steel,No,No,No,No,No,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-ET-34001-1FC4",U-bolt,No,ET,40.0,40.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,Yes,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
+"3""-ET-34001-1FC4",Trunnion,No,ET,40.0,40.0,Carbon Steel,Yes,Inorganic zinc,No,Polyamide epoxy,Aliphatic Acrilic Poliurethane,No,Moderate Climate or Industrial Environments (Rainfall: about 500-1000 mm/year),0
